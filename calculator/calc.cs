@@ -8,6 +8,7 @@ namespace calculator
     public class calc
     {
         int a, b, sum, product;
+        float division;
         public void getadd(int a, int b)
         {
             this.a = a;
@@ -29,6 +30,13 @@ namespace calculator
             this.b = b;
             product = a * b;
             Console.WriteLine("product is:" + product);
+        }
+        public void div(int a, int b)
+        {
+            this.a = a;
+            this.b = b;
+            division = a / b;
+            Console.WriteLine("division is:" + division);
         }
     }
 }

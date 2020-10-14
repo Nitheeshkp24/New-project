@@ -14,6 +14,7 @@ namespace calculator
             obj.getadd(a, b);
             obj.sub(a, b);
             obj.getproduct(a, b);
+            obj.div(a, b);
         }
     }
 }
