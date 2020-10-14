@@ -22,7 +22,7 @@ namespace New_project
             mark2 = Convert.ToInt32(Console.ReadLine());
             
 
-            //int mark1, mark2;
+            
 
 
             Student obj = new Student();

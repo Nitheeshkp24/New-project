@@ -16,13 +16,7 @@ namespace New_project
             this.department=department;
             this.mark1 = mark1;
             this.mark2 = mark2;
-            //Console.WriteLine("enter name dep mark1,mark2");
-            //name = Console.ReadLine();
-            //department = Console.ReadLine();
-            //mark1 = Convert.ToInt32(Console.ReadLine());
-            //mark2= Convert.ToInt32(Console.ReadLine());
-
-
+            
 
         }
         public void display()
