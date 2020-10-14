@@ -29,7 +29,7 @@ namespace New_project
         {
             Console.WriteLine("name:=" + name );
             Console.WriteLine("dep= " + department);
-            Console.WriteLine("mark= " + mark1);
+            Console.WriteLine("mark1= " + mark1);
             Console.WriteLine("mark2= " + mark2);
         }
     }
