@@ -12,6 +12,7 @@ namespace calculator
             b = Convert.ToInt32(Console.ReadLine());
             calc obj = new calc();
             obj.getadd(a, b);
+            obj.sub(a, b);
         }
     }
 }

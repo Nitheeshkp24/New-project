@@ -14,6 +14,12 @@ namespace calculator
             sum = a + b;
             Console.WriteLine("sum is:"+sum);  
         }
-
+        public void sub(int a,int b)
+        {
+            this.a = a;
+            this.b = b;
+            sum = a - b;
+            Console.WriteLine("subtract value is:" + sum);
+        }
     }
 }
