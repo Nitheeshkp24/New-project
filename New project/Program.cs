@@ -7,6 +7,8 @@ namespace New_project
         static void Main(string[] args)
         {
             Console.WriteLine("new project");
+            Console.WriteLine("new project");
+
         }
     }
 }
