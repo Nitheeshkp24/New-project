@@ -13,6 +13,7 @@ namespace calculator
             calc obj = new calc();
             obj.getadd(a, b);
             obj.sub(a, b);
+            obj.getproduct(a, b);
         }
     }
 }
