@@ -36,7 +36,7 @@ namespace calculator
             this.a = a;
             this.b = b;
             division = a / b;
-            Console.WriteLine("division is:" + division);
+            Console.WriteLine("Division is:" + division);
         }
     }
 }
