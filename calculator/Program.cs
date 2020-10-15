@@ -7,7 +7,7 @@ namespace calculator
         static void Main(string[] args)
         {
             int a, b;
-            Console.WriteLine("Enter two numbers");
+            Console.WriteLine("Enter Two Numbers");
             a = Convert.ToInt32(Console.ReadLine());
             b = Convert.ToInt32(Console.ReadLine());
             calc obj = new calc();
